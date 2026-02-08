@@ -2,8 +2,8 @@
 
 
 Installation
-  * Ensure you have Python 3.x installed.
-  * Install the required library: pip install pgzero
+  * Ensure you have Python 3.11.0rc2 or better installed.
+  * Install the required library: pip install (2.22.2 version) & pgzero
   * Run the game with: pgzrun GAME.py
 
 
@@ -31,4 +31,5 @@ Credits & Attributions
   * Environment & Sprite Assets: "Pixel Adventure" and associated assets by Pixel Frog via Itch.io.
   * Character Sprites: "Main characters and enemies" by Kenney.nl.
   * Music & Audio: * Background Music: "Top Gear 2 Original Soundtrack" (Remastered). All rights belong to the original composers and Kemco.
+
   * Sound Effects: Kenney.nl Audio Pack.
